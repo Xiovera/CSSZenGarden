@@ -6,10 +6,7 @@ body {
     background-attachment: fixed;
     font-size: 15px;
 	  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
-    max-width: 800px;
-    padding: 2em 2em 4em;
-    }
+     }
 h1, h2, h3, {
     color: #222;
     font-family: 
